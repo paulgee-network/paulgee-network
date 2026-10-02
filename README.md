@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi, I'm Paul S. Gee Jr. 👋
 
-<!--
-**paulgee-network/paulgee-network** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I'm a Network Engineering student interested in building, connecting, and securing technology systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently developing my skills in computer networking, cybersecurity, cloud computing, and software development.
+
+## What I'm Learning
+
+- 🌐 Network Engineering
+- 🔐 Cybersecurity
+- ☁️ Cloud Computing
+- 💻 Programming
+- 🗄️ Databases
+- 🛠️ System Administration
+
+## Technologies & Tools
+
+- C++
+- Java
+- HTML
+- SQL
+- Git & GitHub
+- Networking Fundamentals
+
+## Current Focus
+
+I'm focused on developing practical networking and technology projects while building a strong foundation for a career in Network Engineering.
+
+## Projects
+
+🚧 Projects will be added here as I build and publish them.
+
+## Goals
+
+- Build real-world technology projects
+- Develop strong networking and cybersecurity skills
+- Learn cloud technologies
+- Build systems that solve practical problems
+- Continue growing as a technology professional
+
+## Let's Connect
+
+I'm always interested in learning, building, and connecting with other people in technology.
+
+---
+
+⭐ Thanks for visiting my profile!
